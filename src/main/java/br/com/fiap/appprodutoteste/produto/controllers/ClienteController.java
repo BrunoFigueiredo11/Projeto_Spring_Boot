@@ -16,7 +16,6 @@ import org.springframework.web.servlet.ModelAndView;
 
 import br.com.fiap.appprodutoteste.produto.dto.ClienteDto;
 import br.com.fiap.appprodutoteste.produto.model.Cliente;
-import br.com.fiap.appprodutoteste.produto.model.Produto;
 import br.com.fiap.appprodutoteste.produto.repositories.ClienteRepository;
 
 @Controller
